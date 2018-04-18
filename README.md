@@ -5,7 +5,7 @@ Honeypots Used:
   Dionaea
   Suricata
   
-Issues encoutered:
+Issues encountered:
   I noticed that my VM dedicated to dionaea attacks was experiencing extremely high CPU usage. This could be related to the attack methods that VM was designed to capture.
   
 Attack Summary:
